@@ -93,7 +93,7 @@ http://localhost/Student-Task-Manager/
 
 Sunny Yadav
 
-Registered Email: YOUR_REGISTERED_EMAIL@example.com
+Registered Email: sunnyraj870931@gmail.com
 
 ## GitHub Repository
 
